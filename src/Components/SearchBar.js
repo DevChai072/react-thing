@@ -33,7 +33,7 @@ const SearchBar = props => {
 				<input type="text" placeholder="Search..." value={filterText} onChange={handleFilterTextChange} />
 				<br></br>
 				<input type="checkbox" id="vehicle1" name="vehicle1" checked={inStockOnly} onChange={handleInStockChange} />
-				<label for="vehicle1"> I have a bike</label>
+				<label for="vehicle1"> Only show products in stock</label>
 			</form>
 		</div>
 	)
