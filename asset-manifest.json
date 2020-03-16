@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-thing/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-thing/static/js/main.a59767fa.chunk.js",
+    "main.js.map": "/react-thing/static/js/main.a59767fa.chunk.js.map",
+    "runtime-main.js": "/react-thing/static/js/runtime-main.4fac9e66.js",
+    "runtime-main.js.map": "/react-thing/static/js/runtime-main.4fac9e66.js.map",
+    "static/js/2.4e9106ae.chunk.js": "/react-thing/static/js/2.4e9106ae.chunk.js",
+    "static/js/2.4e9106ae.chunk.js.map": "/react-thing/static/js/2.4e9106ae.chunk.js.map",
+    "index.html": "/react-thing/index.html",
+    "precache-manifest.5fb5098cbfc396aef32c4c05394fbed4.js": "/react-thing/precache-manifest.5fb5098cbfc396aef32c4c05394fbed4.js",
+    "service-worker.js": "/react-thing/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-thing/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4e9106ae.chunk.js.LICENSE.txt": "/react-thing/static/js/2.4e9106ae.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-thing/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fac9e66.js",
+    "static/js/2.4e9106ae.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a59767fa.chunk.js"
+  ]
+}
